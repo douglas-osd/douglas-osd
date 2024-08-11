@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @douglas-osd
-- 👀 I’m interested in ... developing for Unity 🧑‍💻
-- 🌱 I’m currently learning ... C# 🐍
+- 👀 I’m interested in ... developing for Godot & Unity 🧑‍💻
+- 🌱 I’m currently learning ... GDScript & C# 🐍
 - 💞️ I’m looking to collaborate on ... games 🎮
 - 📫 How to reach me ... @osdouglastweets 🐤
 
